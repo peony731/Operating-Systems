@@ -1,2 +1,3 @@
 An operating system is a set of programs that coorninate all the activites among computer or mobile device hardware. The operating system can help start and shut down a computer or mobile devices.
 The operating system can help provide a user interface, manage programs and manage memory.
+The operating system can coordinate  tasks, configure devices and monitor performance.
