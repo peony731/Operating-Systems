@@ -1,0 +1,1 @@
+An operating system is a set of programs that coorninate all the activites among computer or mobile device hardware. The operating system can help start and shut down a computer or mobile devices.
